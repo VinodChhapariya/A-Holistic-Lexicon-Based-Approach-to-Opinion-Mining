@@ -152,8 +152,8 @@ with open('Nokia6610_Predicted.json', 'w') as outfile:
                 #context dependant opinion handling
                 #adding more negation rules
                 #applying synonym antonym rule
-                #But caluse rule
-                #calculating accuracy of the algorithm
+                #But caluse rule - done
+                #calculating accuracy of the algorithm - done
                 
 
 
