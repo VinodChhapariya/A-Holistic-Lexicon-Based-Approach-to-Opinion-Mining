@@ -210,12 +210,6 @@ with open('HitachiRouter_Predicted.json', 'w') as outfile:
      json.dump(FeatureDictionary, outfile, sort_keys = True, indent = 4,ensure_ascii=False)
 
 
-        #Work yet to complete for this algorithm ---
-                #context dependant opinion handling
-                #adding more negation rules
-                #applying synonym antonym rule
-                #But caluse rule - done
-                #calculating accuracy of the algorithm - done
 
 
                         
