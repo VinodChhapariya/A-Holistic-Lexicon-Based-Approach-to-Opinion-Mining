@@ -4,4 +4,4 @@
 
 - At sentence level to identify the aspect on which opinion is expressed and opinion word which expresses orientation of the opinion -  positive, negative or neutral, preprocessing on the review data is done by applying pos tagging, noun phrase extraction using NLTK.   
 
-
+- Paper - https://www.cs.uic.edu/~liub/FBS/opinion-mining-final-WSDM.pdf
